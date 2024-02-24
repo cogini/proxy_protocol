@@ -1,6 +1,6 @@
 defmodule ProxyProtocol do
   @moduledoc """
-    https://www.haproxy.org/download/1.8/doc/proxy-protocol.txt
+  https://www.haproxy.org/download/1.8/doc/proxy-protocol.txt
   """
 
   @doc "Create text header"

@@ -1,6 +1,8 @@
-# ProxyProtocol
+# proxy_protocol
 
-**TODO: Add description**
+Elixir library to generate and parse PROXY protocol headers.
+
+https://www.haproxy.org/download/1.8/doc/proxy-protocol.txt
 
 ## Installation
 
@@ -18,4 +20,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/proxy_protocol>.
-
